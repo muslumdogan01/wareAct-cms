@@ -1,3 +1,3 @@
 module.exports = {
-    presets: ['@strapi/babel-preset-strapi'],
-  };
+  presets: ['@strapi/babel-preset-strapi'],
+};
